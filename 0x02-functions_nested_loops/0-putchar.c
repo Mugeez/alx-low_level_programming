@@ -2,7 +2,6 @@
 #include "main.h"
 /**
  * main - print _putchar
- * Code by: Prince Solomon
  * Return: 0
  */
 int main(void)
