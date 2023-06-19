@@ -1,1 +1,1 @@
-This is the README.md file for typedef assignment
+This thestructure, typedef README.md file
