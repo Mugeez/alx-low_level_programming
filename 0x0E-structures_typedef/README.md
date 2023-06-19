@@ -1,1 +1,1 @@
-This thestructure, typedef README.md file
+0x0E. C - Structures, typedef
